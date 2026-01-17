@@ -1,0 +1,17 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data files (large)
+*.mat
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db

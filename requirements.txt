@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+autograd
+cvxopt
+statsmodels
+pandas
+scikit-learn
